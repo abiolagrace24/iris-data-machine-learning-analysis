@@ -1,6 +1,6 @@
 # 🌸 Iris Flower Classification: Decision Tree & Random Forest
 
-This notebook walks you through building machine learning models that classify flowers into species using features like petal and sepal sizes. It uses **Decision Trees**, **Random Forest**, and **Logistic Regression** on the **Iris dataset**.
+_This repository contains a detailed, beginner-friendly analysis of the popular Iris dataset. The notebook guides you through each step of a typical data analysis process from loading and cleaning the data to exploring patterns through visualizations. It’s designed to strengthen practical skills in Python, Pandas, and Seaborn, and to demonstrate how basic statistics and data visual tools can reveal powerful insights in a clean dataset._
 
 ---
 
